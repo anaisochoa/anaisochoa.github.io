@@ -1,0 +1,123 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #F7F7F7;
+  /* Old browsers */
+  background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+}
+
+/** Curly hair steps **/
+.header {
+  background-image: url(https://lh3.googleusercontent.com/X0-u5jkL1WoFI-wYjuX4MOcn46lASWO4shHw5QvjWWXtS9Mc6CRn3X8ZgYHo9-eItfWighrzP2qpojD_7vEpDOlnjh4GhNgoFCTRx4eNezWlCXftd7iSbf8qRoG9rYhNk278JmY3os8S1glEqw2biLsL6WKZ7oY90QiYXJ9ko34KPT5QYnqOP_GVajIn_rpOJghPg8q-SoKXWVNbegyt15fRLg9C9jyyyou4zyI3VJr7EBP4NeZtfw5vKYVkqM30GCvTMnbdUnOtYam1ZioJ_W4aIpBwTEKVCnjMPy8QT3RUVvJHud7W66yNB1wPWsVglRJ0Qm5Qt2ejmtlXaKmB7DIcx7phw8uLxqIUnZVBiUGDuh2Itpj1ak3wRuq423cYurGHJjIc61oSnEDRctnBOnRr-D2pyEvHCaLRMPR5RT40IT1ATWzYPKVJ7NJ6DGBw6RUth1k1uTas-GE7LRGHsIX6PZ_Vx97vbhhMI3IWSuQ61pp2AbE_KH0iw-a5qY7JOJ7Dcg2uxuXLupR5HvCaduO1cJElWmyEjvByIFo7MwnG7UtZKy7DfwKBdTlwB5-jTp9kNyanCCRqmKyLBkZa0YRes86_lJpEDOZVk3u4l1_NmKx7KdTdGOApEjUjWC8JBsMXYoBRylJTdAF2rb5-TPnkBckFbXQ=w457-h609-no);
+  height: 400px;
+  background-position: center center;
+}
+
+.disclaimer {
+  margin: 40px auto;
+  padding: 20px 30px 40px 30px;
+  background-color: #FFFFFFFFF;
+  overflow: auto;
+  width: 75%;
+  border-radius: 4px;
+  align-self: center;
+}
+
+.disclaimer p {
+  color: #FF6D5D;
+  text-align: center;
+  line-height: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.spectrum div {
+  font: inherit;
+  padding: 0 20px;
+  color: #FFFFFF;
+  overflow: auto;
+  opacity: 0.9;
+}
+
+.spectrum p {
+  color: #FFFFFF;
+  text-align: left;
+}
+
+/* curly hair steps */
+.first {
+  background-color: rgb(143, 188, 143);
+}
+
+.second {
+  background-color: rgb(160, 82, 45);
+}
+.third {
+  background-color: rgb(229, 214, 116);
+}
+
+/* Typography */
+h1 {
+  color: #FF6D5D;
+  font-family: 'Josefin Slab', serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+h2 {
+  color: #E4BB97;
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #41292C;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: .2em;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: .2em;
+  font-weight: 300;
+}
+
+/* Page elements */
+
+li {
+  border-bottom: 1px solid #E4BB97;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
